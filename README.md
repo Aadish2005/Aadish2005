@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cb15a1ca-d43d-4ef2-81d5-2f174da63563" />
+
 <h1 align="center">Hi 👋, I'm Aadish Jain</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
